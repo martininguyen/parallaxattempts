@@ -1,0 +1,19 @@
+{
+  "name": "parallaxattempts",
+  "version": "0.12.7",
+  "description": "Parallax Scrolling",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martininguyen/parallaxattempts.git"
+  },
+  "author": "Duy Martin Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martininguyen/parallaxattempts/issues"
+  },
+  "homepage": "https://github.com/martininguyen/parallaxattempts"
+}
